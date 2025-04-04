@@ -1,4 +1,4 @@
-
+// Parcial Inventario Equipos Tecnologicos en Colas (Computadores-Tablets): Johnatan Moreno
 import java.util.Scanner;
 
 public class MenuPrincipal {
